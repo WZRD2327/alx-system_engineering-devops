@@ -1,0 +1,1 @@
+Reopository for shell navigation project 0x00-shell_basics
